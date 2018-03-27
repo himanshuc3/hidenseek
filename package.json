@@ -1,0 +1,24 @@
+{
+  "name": "hidenseek",
+  "version": "1.0.0",
+  "description": "Password hide/show feature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d output"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshuc3/hidenseek.git"
+  },
+  "author": "Himanshu chhabra <himichhabra14@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/himanshuc3/hidenseek/issues"
+  },
+  "homepage": "https://github.com/himanshuc3/hidenseek#readme",
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-preset-es2015": "6.24.1"
+  }
+}
